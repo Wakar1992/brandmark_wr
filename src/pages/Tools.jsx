@@ -116,7 +116,7 @@ const posts = [
   },
 ]
 
-export function Tools() {
+export default function Tools() {
   const [isMenuOpen, setIsMenuOpen] = React.useState(false)
 
   const toggleMenu = () => {
