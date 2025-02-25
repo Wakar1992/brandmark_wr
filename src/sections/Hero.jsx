@@ -19,18 +19,17 @@ function Hero() {
           variants={slideUpVariants}
           className='text-yellow-500 uppercase text-2xl'
           >
-            WE ARE BUILDERS
+            WE ARE WATERPROOFING EXPERTS
           </motion.h1>
           <motion.h1
           variants={slideUpVariants}
           className='text-white uppercase text-[50px] font-bold'
           >
-            we will build your dream
+            YOUR DREAM, OUR EXPERTISE IN WATERPROOFING
           </motion.h1>
           <div className='w-[120px] h-[6px] bg-yellow-500'></div>
           <p className='text-white text-[20px]'>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas vitae doloribus, ipsam quidem, ex totam perspiciatis asperiores praesentium deserunt rerum eligendi enim porro dolore maxime cum? Similique sed sapiente aliquam.
-          Id necessitatibus amet, inventore dolor magni soluta quis optio cumque facere, ut sed sint cupiditate! Accusantium, optio! Iusto consectetur odio, modi quos quibusdam velit explicabo eos ut deleniti architecto autem.
+          At Aquaproofing Company, we specialize in delivering top-tier waterproofing solutions tailored to your unique needs. With years of experience, our expert team ensures your property remains safe, secure, and protected from water damage. Whether you're building a new space or enhancing an existing one, we bring your vision to life with precision, reliability, and cutting-edge technology. Trust us to protect your dream and elevate your property’s longevity with the best waterproofing services in the industry.
           </p>
           <motion.div
           initial='hidden'

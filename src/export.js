@@ -19,37 +19,31 @@ export const allservices = [
     icon: building,
     title: "BUILDING RENOVATION",
     about:
-      "Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Expert building renovation solutions that enhance beauty and longevity",
   },
   {
     icon: construction,
-    title: "CONSTRUCTION SERVICES",
+    title: "WATERPROOFING SERVICES",
     about:
-      "Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Reliable waterproofing services ensuring long-term protection against water damage.",
   },
   {
     icon: design,
     title: "DESIGN & PLANNING",
     about:
-      "Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Strategic waterproofing design and planning for long-lasting results.  ",
   },
   {
     icon: document,
     title: "DOCUMENTATION",
     about:
-      "Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-  },
-  {
-    icon: paint,
-    title: "INTERIOR DESIGN",
-    about:
-      "Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Detailed reports and documentation ensuring accurate waterproofing design and execution.",
   },
   {
     icon: support,
     title: "CUSTOMER SUPPORT",
     about:
-      "Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Fast, responsive customer support, committed to your satisfaction.",
   },
 ];
 

@@ -22,12 +22,12 @@ function About() {
         variants={slideUpVariants}
         className='text-white uppercase text-[40px] font-bold'
         >
-          cloud guard waterproofing
+          Aquaproofing Company
         </motion.h1>
         <div className='w-[120px] h-[6px] bg-yellow-500'></div>
         <p className='text-3xl italic text-gray-50 mt-[60px]'>
-We are the leader with 10 years of experiance in the waterproofing market.        </p>
-        
+          We are the leader with 12 years of experiance in the waterproofing market. 
+        </p>
       </motion.div>
       <motion.div
       initial='hidden'
@@ -35,8 +35,7 @@ We are the leader with 10 years of experiance in the waterproofing market.      
       className='lg:w-[40%] w-full flex flex-col justify-center items-start gap-6'
       >
         <p className='text-white text-lg text-justify'>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo quasi rerum odio cum nisi dolore magnam dolor animi a atque aspernatur mollitia modi, assumenda nobis quisquam recusandae in ullam voluptatum?
-          Officiis, eveniet! Veniam voluptatem laborum aspernatur quos voluptate laboriosam quis perspiciatis molestiae excepturi sunt amet deserunt dolores, suscipit ex impedit quam neque consequuntur asperiores fugiat voluptatibus dicta? Iure, dolores vero.
+        Welcome to Aquaproofing Company – your trusted leader in the waterproofing industry for over 12 years. With a decade of expertise, we have honed our skills and built a reputation for delivering high-quality, reliable waterproofing solutions. Whether it's residential, commercial, or industrial projects, we are committed to providing tailored services that meet your specific needs. Our team uses the latest techniques and technology to ensure lasting protection against water damage, so you can have peace of mind knowing your property is in the hands of professionals. Trust Aquaproofing Company to safeguard your investment for years to come.
         </p>
 
       <motion.button 
