@@ -8,6 +8,7 @@ import Testimonial from './sections/Testimonials'
 import Contact from './sections/Contact'
 import Footer from './sections/Footer'
 import Portfolio from './sections/Portfolio'
+import ChatWidget from './ChatWidget';
 function App() {
   return (
     <>
@@ -19,6 +20,7 @@ function App() {
       <Working />
       <Testimonial />
       <Contact />
+      <ChatWidget />
       <Footer />
     </>
   )

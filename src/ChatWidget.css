@@ -1,0 +1,101 @@
+.chat-widget {
+    position: fixed;
+    left: 25px;
+    bottom: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    z-index: 1000;
+  }
+  
+  .chat-options {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 8px;
+  }
+  
+  .chat-button {
+    width: 54px;
+    height: 54px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    border-radius: 50%;
+    text-decoration: none;
+    /* color: white;
+    background-color: #A886CD; */
+    /* box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); */
+    transition: transform 0.2s ease;
+  }
+  
+   .chat-toggle {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #a886cd;
+    color: white;
+    font-size: 28px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    transition: transform 0.4s ease, background-color 0.3s ease;
+    transform: rotate(0deg);
+  }
+  
+  .chat-toggle.open {
+    transform: rotate(180deg);
+    background-color: #8d6bbf;
+  }
+  .chat-toggle-button .icon {
+    width: 54px;
+    height: 54px;
+    font-size: 24px;
+    display: inline-block;
+  }
+  .chat-button:hover {
+    transform: scale(1.1);
+  }
+  
+  .channel-icon-Whatsapp .chaty-svg{
+    background-color: #49E670;
+  }
+    
+  
+  .channel-icon-Phone {
+    fill: #1E88E5;
+    color: #1E88E5;
+  }
+  .channel-icon-Phone .chaty-svg{
+    background-color: #1E88E5;
+  }
+  .channel-icon-Phone .color-element {
+    fill: #1E88E5;
+    color: #1E88E5;
+  }
+   .chaty-svg {
+    width: 54px;
+    height: 54px;
+   }
+  
+  .chat-toggle {
+    width: 54px;
+    height: 54px;
+    font-size: 24px;
+    border-radius: 50%;
+    background-color: #A886CD;
+    color: white;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  }
+  
