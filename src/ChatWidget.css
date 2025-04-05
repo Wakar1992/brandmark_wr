@@ -60,7 +60,7 @@
     width: 54px;
     height: 54px;
     font-size: 24px;
-    /* display: inline-block; */
+    display: inline-block;
   }
   .chat-button:hover {
     transform: scale(1.1);
