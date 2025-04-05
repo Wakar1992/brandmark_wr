@@ -13,7 +13,7 @@ const ChatWidget = () => {
       {isOpen && (
         <>
           <a
-            href="https://web.whatsapp.com/send?phone=919166538689"
+            href="https://wa.me/919166538689"
             target="_blank"
             rel="noopener noreferrer"
             className="chat-button whatsapp"
